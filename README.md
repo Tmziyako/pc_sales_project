@@ -1,8 +1,8 @@
 # pc_sales_sql_practise_project
 
-Project Overview: This project focuses on building SQL skills, starting from the basics and progressing to advanced concepts. The approach is to solve questions and challenges based on provided datasets.
+This project focuses on building SQL skills, starting from the basics and progressing to advanced concepts. The approach is to solve questions and challenges based on provided datasets.
 
-Objectives: 
+#Objectives: 
 Practice fundamental SQL queries such as filtering, sorting, and grouping
 Explore aggregate functions (SUM, COUNT, AVG) for data analysis
 Work with joins to combine data across multiple tables
